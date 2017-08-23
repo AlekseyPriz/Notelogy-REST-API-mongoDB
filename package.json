@@ -1,0 +1,17 @@
+{
+  "name": "contacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "phoneBookAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksey Priz",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.28",
+    "body-parser": "*",
+    "express": "^4.15.4"
+  },
+  "engines": {"node": "7.5.0"}
+}
